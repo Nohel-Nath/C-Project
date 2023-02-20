@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1529868123 source:c:\users\nuhash\desktop\nohel\main.cpp
+	<database.h>
+
+1529866914 source:c:\users\nuhash\desktop\nohel\src\check_class.cpp
+	"check_class.h"
+
+1529866935 c:\users\nuhash\desktop\nohel\include\check_class.h
+	<string>
+	<iostream>
+
+1529866302 source:c:\users\nuhash\desktop\nohel\src\account.cpp
+	"account.h"
+
+1529867043 c:\users\nuhash\desktop\nohel\include\account.h
+	<string>
+	<fstream>
+	<iostream>
+	"check_class.h"
+
+1529868243 source:c:\users\nuhash\desktop\nohel\src\database.cpp
+	"database.h"
+
+1529868568 c:\users\nuhash\desktop\nohel\include\database.h
+	<vector>
+	"account.h"
+
+1529868123 source:e:\nohel\main.cpp
+	<database.h>
+
+1530004490 e:\nohel\include\database.h
+	<vector>
+	"account.h"
+	<windows.h>
+
+1529926091 e:\nohel\include\account.h
+	<string>
+	<fstream>
+	<iostream>
+	"check_class.h"
+
+1530003980 e:\nohel\include\check_class.h
+	<string>
+	<iostream>
+
+1529948479 source:e:\nohel\src\account.cpp
+	"account.h"
+
+1529947514 source:e:\nohel\src\check_class.cpp
+	"check_class.h"
+
+1530004490 source:e:\nohel\src\database.cpp
+	"database.h"
+
+1529868123 source:h:\c project\nohel\main.cpp
+	<database.h>
+
+1530004490 h:\c project\nohel\include\database.h
+	<vector>
+	"account.h"
+	<windows.h>
+
+1529926091 h:\c project\nohel\include\account.h
+	<string>
+	<fstream>
+	<iostream>
+	"check_class.h"
+
+1530003980 h:\c project\nohel\include\check_class.h
+	<string>
+	<iostream>
+
+1529948479 source:h:\c project\nohel\src\account.cpp
+	"account.h"
+
+1529947514 source:h:\c project\nohel\src\check_class.cpp
+	"check_class.h"
+
+1530004490 source:h:\c project\nohel\src\database.cpp
+	"database.h"
+

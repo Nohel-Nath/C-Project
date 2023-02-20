@@ -1,0 +1,22 @@
+#include "account.h"
+
+account::account()
+{
+    //ctor
+}
+
+account::~account()
+{
+    //dtor
+}
+int account::ammount()
+{
+    return this->taka;
+}
+int account::withdraw(int M)
+{
+    if(M>ammount())
+    {
+        return 
+    }
+}
